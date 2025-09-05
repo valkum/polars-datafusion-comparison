@@ -1,0 +1,1 @@
+hyperfine  "uv run test_polars.py $1" "uv run test_datafusion.py $1"
